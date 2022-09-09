@@ -1,4 +1,4 @@
 # git_test
-My first GitHub repo!
-Hello Odin!
-want to test something out.
+My first GitHub repo! \n
+Hello Odin! \n 
+want to test something out. \n
